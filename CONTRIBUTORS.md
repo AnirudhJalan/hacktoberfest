@@ -1,7 +1,7 @@
 #### Name: Anirudh Jalan
 - Place: kolkata, WestBengal, India
 - Bio: Passionate learner , hustler , developer , creator
-- GitHub: [JALANANIRUDH1]([GitHub link](https://github.com/AnirudhJalan))
+- GitHub: [AnirudhJalan](https://github.com/AnirudhJalan)
 
 #### Name: Vallenain
  - Place: Lyon, France
